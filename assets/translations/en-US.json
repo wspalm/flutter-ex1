@@ -1,0 +1,10 @@
+{
+    "Topic": "Restaurant Ordering Application",
+    "Home":"Home",
+    "Cart": "Cart",
+    "Main": "Main dish",
+    "Dessert": "Dessert",
+    "Beverage": "Beverage",
+    "Setting": "Setting",
+    "Detail": "Detail"
+}
